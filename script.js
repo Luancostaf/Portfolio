@@ -64,12 +64,12 @@ btn.addEventListener('click', () => {
     if (isDark) {
         body.classList.remove('dark');
         body.classList.add('light');
-        icon.src = "/assets/moon.png";
+        icon.src = "https://luancostaf.github.io/Portfolio/assets/moon.png";
         icon.alt = "Ícone da lua";
     } else {
         body.classList.remove('light');
         body.classList.add('dark');
-        icon.src = "/assets/sun.png";
+        icon.src = "https://luancostaf.github.io/Portfolio/assets/sun.png";
         icon.alt = "Ícone do sol";
     }
 });
@@ -96,11 +96,6 @@ function typeWriter(element, textToType, speed) {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    // ... Seu código de toggle de tema e geração de estrelas/neve aqui ...
-
-    // --------------------------------------------------------------------
-    // Lógica da Animação de Escrita (Ajustada)
-    // --------------------------------------------------------------------
     const welcomeEl = document.getElementById('welcome-text');
     const titleEl = document.getElementById('about-title');
     const contentEl = document.getElementById('about-content');
