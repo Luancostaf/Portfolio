@@ -23,4 +23,4 @@ Os principais projetos e informações sobre minha trajetória estão disponíve
 ## 📫 Contato
 
 * GitHub: [@Luancostaf](https://github.com/Luancostaf)
-* LinkedIn: [Luan Gabriel Franco Costa](https://www.linkedin.com/in/luan-gabriel-franco-costa/)
+* LinkedIn: [Luan Gabriel Franco Costa](https://www.linkedin.com/in/luan-gabriel-franco-costa-21a0a136a/)
